@@ -1,8 +1,8 @@
 # Quipass - A Bark Phone Bypass Helper
-quipass bark bypasser
-hello! if you came to this repository, you may have stumbled across QUIPASS, a bark phone bypasser
+
+hello! if you came to this repository, you may have stumbled across QUIPASS, a bark phone bypasser.
 how does quipass work? 
-quipass works by using the bark phones settings, and the bark phone being slow
+quipass works by using the bark phones settings, and the bark phone being slow.
 heres the instructions
 
 1. Go to settings (if accessable), then go to apps, and as fast as you can, find either 'Bark' or 'Bark Guard Dog'
