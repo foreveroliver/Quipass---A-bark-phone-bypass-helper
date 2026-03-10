@@ -1,4 +1,4 @@
-# quipass
+# Quipass - A Bark Phone Bypass Helper
 quipass bark bypasser
 hello! if you came to this repository, you may have stumbled across QUIPASS, a bark phone bypasser
 how does quipass work? 
